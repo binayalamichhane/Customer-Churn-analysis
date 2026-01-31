@@ -1,0 +1,17 @@
+# Core Data Manipulation
+numpy
+pandas
+
+# Visualizations
+matplotlib
+seaborn
+
+# Machine Learning & Scipy
+scikit-learn
+scipy
+
+# Model Persistence & Pipeline Utilities
+joblib
+
+# Jupyter Notebook Support (For VS Code)
+ipykernel
